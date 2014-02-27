@@ -1,0 +1,152 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Apartments Coca-Letta</title>
+  
+  <!-- SlidesJS Required (if responsive): Sets the page width to the device width. -->
+  <meta name="viewport" content="width=device-width">
+  <!-- End SlidesJS Required -->
+  <link rel="stylesheet" href="css-main.css"> 
+  <link rel="stylesheet" href="css-slide.css"> 
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Signika">
+  
+  <script src="js/jquery-2.1.0.min.js"></script>
+  <script src="js/jquery.slides.min.js"></script>
+</head>
+
+
+
+<body>
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".mmenubtn").click(function() {
+   		$("#middlepagecontainer").html($(this.hash).html());
+	});
+    $('#btn_about').click(function(){   
+       $('#middlepagecontainer').load("About.html");
+    });
+});
+</script>
+
+
+
+	<div id="header"> 
+    </div>
+    
+    
+  <!-- Pics Slider -->
+  <div id="main_slider_kontejner">   
+  	<div id="mainmenu">
+        	<ul class="nav">
+           	  <li class="active"><a class="mmenubtn" href="#boxcc">Apartments Coca-Letta</a></li>
+                <li><a href="#">Rates</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a id="btn_about">About</a></li>
+           </ul>
+    </div>
+    
+	<div id="slides">
+      <img src="Media/IMG_0439.JPG" alt="">
+      <img src="Media/IMG_0104.JPG" alt="">
+      <img src="Media/IMG_0020.JPG" alt="">
+      <img src="Media/008.JPG" alt="">
+      <img src="Media/IMG_0444.JPG" alt="">
+      <img src="Media/IMG_0437.JPG" alt="">
+	</div>    
+    
+
+    <div id="middlepagecontainer"> 
+
+	</div>
+    
+    
+  </div>
+
+<div id="boxcc" class="box-choices-container">
+      <div class="box-choices-item">
+      	<div class="box-choices-item-title">
+        	<a>Apartment "Tango" 2+1</a>
+        </div>
+        <img src="Media/IMG_0020.jpg"  alt="" width="250" height="184" class=""/>
+        <div class="box-choices-item-description">
+        	Cozy 1-room apartment in quiet location, 55m2+18m2 terrace, accomodates 2+1, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!"
+        </div>
+        <a1 href="#" class="moreinfobtn">More info</a1>
+      </div>
+      <div class="box-choices-item-separator"></div>
+      <div class="box-choices-item">
+      	<div class="box-choices-item-title">
+      		<a>Apartment "Milonga" 4+2</a>
+       </div>
+        <img src="Media/IMG_0444.jpg"  alt="" width="250" height="184" class=""/>
+        <div class="box-choices-item-description">
+        	Cozy 2-room apartment in quiet location, 65m2+15m2 balcony, accomodates 4+2, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!"
+        </div>
+        <a1 href="#" class="moreinfobtn">More info</a1>
+      </div>
+      <div class="clear"></div>
+     </div>
+     
+  
+  <script>
+    $(function() {
+      $('#slides').slidesjs({
+        play: {
+          active: false,
+          auto: true,
+          interval: 3000,
+		   effect: "fade",
+          swap: true
+        },
+        effect: {
+          fade: {
+            speed: 1300
+          }
+        },
+		navigation: { active: false },
+		pagination: { active: false }
+      });
+    });
+  </script>
+  <!-- End Pics Slider Show -->
+  
+  
+  <div class="footer">  
+   <div id="footertext">
+   		<p class="labeladdress">Apartments "Coca-Letta"</p>
+       <p class="labeladdress1">Kokuletovica 35, 52210 Rovinj, Croatia</p>
+       <p class="labeladdress1">Tel: +385 52 829 007</p>
+		<br>
+        <br>
+        <br>  
+        <p class="labellogo">Design &amp; content © 2014 by Dinko Perkusic.</p>     
+   </div>
+   <div class="footerFolowUs" style="margin-left:5em; margin-right:1.5em; width:4.5em;"> 
+		<p style="position:absolute; bottom:0; margin:0;">Folow Us:</p>
+   </div>
+   <div class="footerFolowUs" style="width:4.5em;"> 
+        <a href="https://www.facebook.com/ApartmentsCocaLetta" target="_TOP" title="Apartments Coca-Letta">
+        <img src="Media/Facebooklogo.jpeg" width="40" height="41" style="border: 0px; position:absolute; bottom:0;" /></a>					
+    </div>
+   <div class="footerFolowUs" style="width:4.5em;"> 
+        <a href="https://www.google.com/+ApartmentsCocaLettaRovinj" target="_TOP" title="Apartments Coca-Letta">
+        <img src="Media/Googlepluslogo.png" width="40" height="41" style="border: 0px; position:absolute; bottom:0;" /></a>					
+    </div> 
+    <div id="guglmaplocation">
+<!-- 		<iframe src="https://mapsengine.google.com/map/embed?mid=zBaQ_Fo9hTz8.knb_uLxsOPeY" width="100%" height="100%"></iframe>-->
+    </div>
+    
+  </div>
+    
+    
+    
+  <div id="footer_band">
+  </div>
+  
+  
+ 
+     
+</body>
+</html>

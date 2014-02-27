@@ -1,0 +1,215 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ 
+.moreinfobtn {
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 14px;
+  background: #69737a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.moreinfobtn:hover {
+  background: #949ca1;
+  text-decoration: none;
+}
+
+
+.nav{
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+	height: 4em;
+	display: inline-block;
+	background-color: #FFF;
+	 -khtml-opacity:.80; 
+	 -moz-opacity:.80; 
+	 -ms-filter:”alpha(opacity=80)”;
+	  filter:alpha(opacity=80);
+	  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.8);
+	  opacity:.80; 
+}
+.nav a{
+    font-family: Tangerine, Tangerine, serif;
+    font-size: 3em;
+	text-decoration: none;
+	float:left;
+	padding-left: 30px;
+	padding-bottom: 0px;
+	padding-right: 30px;
+	padding-top: 15px;
+	color:#000000;
+}
+
+.nav li a:hover {
+	background-color:#666666;
+}
+
+
+
+#mainmenu {
+	position: absolute;
+	top: 5em;
+	height: 4em;
+	width: 100%;
+	
+	color:#000;
+	z-index: 1000;
+	margin: 0 auto;
+	/*
+	background-color: #FFF;
+	 -khtml-opacity:.80; 
+	 -moz-opacity:.80; 
+	 -ms-filter:”alpha(opacity=80)”;
+	  filter:alpha(opacity=80);
+	  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.8);
+	  opacity:.80;
+	  */ 
+}
+
+body { 
+	padding: 0;
+	margin: 0;
+	background-color: #D5D3D1; 
+}
+
+#header { 
+	/*background-color: #0C3;*/
+	height: 3em; 
+	width: 100%; 
+}
+
+#footer_band { 
+	/*background-color: #0C3;*/
+	height: 3.5em; 
+	width: 100%; 
+}
+
+#slides {
+	display: none;	
+	z-index: 1;
+}
+
+#main_slider_kontejner {
+	/*background-color:#CF0;*/
+	position: relative;
+	width: 100%;
+	height: 40%;
+}
+ 
+#middlepagecontainer {
+	height: 25em;
+	width: 80%;
+	bottom: 0;
+	margin: 0 auto;
+	z-index: 100;
+	left:50%;
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+   transform: translate(-50%);
+   position:absolute;
+   background-color:#3CC;
+}
+
+.box-choices-container {
+	display:none;
+	position:relative;
+	height: 25em;
+	width: 50em;
+	margin: 0 auto;
+	padding:0;
+}
+.box-choices-item {
+	height: 25em;
+	width: 23em;
+	margin: 0;
+	background-color:#F1F0F0;
+	float:left;
+	text-align:center;
+}
+.box-choices-item-separator {
+	height: 25em;
+	width: 3em;
+	margin: 0;
+	float:left;
+}
+.clear {clear: both;}
+
+.box-choices-item-title {
+	position:relative;
+	/*background-color:#0F3;*/
+	height:3em;
+	margin: 1em auto 0 auto;
+}
+
+.box-choices-item a{
+    font-family: Tangerine, serif;
+    font-size: 2.5em;
+	text-decoration: none;
+ 	color:#000000;
+}
+
+.box-choices-item-description {
+	position:relative;
+	/*background-color:#FC3;*/
+	height:5.5em;
+	margin: 0.5em;
+	font-family:Signika, Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+.footer {
+	position:relative;
+	background-color:#999FA7;
+	height: 17em;
+	width: 100%;
+}
+
+#guglmaplocation {
+ 	float:right;
+ 	position:relative;
+ 	width: 24em;
+	height: 12em;
+	margin: 3em 3em auto 0;
+}
+
+#footertext {
+	width: auto;
+	height: 90%;
+	margin: 1em auto auto 1em;
+	float:left;
+ 	position:relative;
+	font-family:Signika, Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-decoration: none;
+	color:#FFF;
+}
+.labeladdress {
+	margin: 0.5em auto 0 0.5em;
+	font-size:29px;
+}
+.labeladdress1 {
+	margin: 0 auto 0 1em;
+	font-size:14px;
+}
+.labellogo {
+	position:absolute;
+    bottom:0;
+    left:0;
+	margin: 0 auto 0 1em;
+	font-size:12px;
+}
+.footerFolowUs {
+	/*width: 4em;*/
+	height: 90%;
+	margin: 1em 0 0 0;
+	float:left;
+ 	position:relative;
+	font-family:Signika, Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	text-decoration: none;
+	color:#FFF;
+	font-size:12px;
+}
