@@ -24,7 +24,7 @@
     text-align:center;
 }
 .nav li{
-	height: 4em;
+	height: 2em;
 	display: inline-block;
 	background-color: #FFF;
 	 -khtml-opacity:.80; 
@@ -36,13 +36,13 @@
 }
 .nav a{
     font-family: Tangerine, Tangerine, serif;
-    font-size: 3em;
+    font-size: 2em;
 	text-decoration: none;
 	float:left;
 	padding-left: 30px;
 	padding-bottom: 0px;
 	padding-right: 30px;
-	padding-top: 15px;
+	padding-top: 3px;
 	color:#000000;
 }
 
@@ -55,7 +55,7 @@
 #mainmenu {
 	position: absolute;
 	top: 5em;
-	height: 4em;
+	height: 3em;
 	width: 100%;
 	
 	color:#000;
@@ -113,11 +113,9 @@ body {
     -moz-transform: translate(-50%);
    transform: translate(-50%);
    position:absolute;
-   background-color:#3CC;
 }
 
 .box-choices-container {
-	display:none;
 	position:relative;
 	height: 25em;
 	width: 50em;

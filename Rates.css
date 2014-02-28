@@ -1,10 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
-#container {
-	display:none;
+#kontejnerrates {
+	position:relative;
 	height:15em;
 	width:20em;
-	background-color:#363;
+	background-color:#0FF;
 	margin: 0 auto;
 }

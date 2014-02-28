@@ -21,11 +21,17 @@
 <body>
 <script type="text/javascript">
 $(document).ready(function(){
-	$(".mmenubtn").click(function() {
-   		$("#middlepagecontainer").html($(this.hash).html());
-	});
     $('#btn_about').click(function(){   
-       $('#middlepagecontainer').load("About.html");
+       $('#middlepagecontainer').load("Aboutus.html");
+    });
+	$('#btn_home').click(function(){   
+       $('#middlepagecontainer').load("Box-choices.html");
+    });
+	$('#btn_contact').click(function(){   
+       $('#middlepagecontainer').load("Contact.html");
+    });
+	$('#btn_rates').click(function(){   
+       $('#middlepagecontainer').load("Rates.html");
     });
 });
 </script>
@@ -40,10 +46,10 @@ $(document).ready(function(){
   <div id="main_slider_kontejner">   
   	<div id="mainmenu">
         	<ul class="nav">
-           	  <li class="active"><a class="mmenubtn" href="#boxcc">Apartments Coca-Letta</a></li>
-                <li><a href="#">Rates</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a id="btn_about">About</a></li>
+           	  <li><a id="btn_home"  href="#">Apartments Coca-Letta</a></li>
+                <li><a id="btn_rates" href="#">Rates</a></li>
+                <li><a id="btn_contact" href="#">Contact</a></li>
+                <li><a id="btn_about"  href="#">About</a></li>
            </ul>
     </div>
     
@@ -58,36 +64,15 @@ $(document).ready(function(){
     
 
     <div id="middlepagecontainer"> 
-
+		<script type="text/javascript">
+       		$('#middlepagecontainer').load("Box-choices.html");
+		</script>
 	</div>
     
     
   </div>
 
-<div id="boxcc" class="box-choices-container">
-      <div class="box-choices-item">
-      	<div class="box-choices-item-title">
-        	<a>Apartment "Tango" 2+1</a>
-        </div>
-        <img src="Media/IMG_0020.jpg"  alt="" width="250" height="184" class=""/>
-        <div class="box-choices-item-description">
-        	Cozy 1-room apartment in quiet location, 55m2+18m2 terrace, accomodates 2+1, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!"
-        </div>
-        <a1 href="#" class="moreinfobtn">More info</a1>
-      </div>
-      <div class="box-choices-item-separator"></div>
-      <div class="box-choices-item">
-      	<div class="box-choices-item-title">
-      		<a>Apartment "Milonga" 4+2</a>
-       </div>
-        <img src="Media/IMG_0444.jpg"  alt="" width="250" height="184" class=""/>
-        <div class="box-choices-item-description">
-        	Cozy 2-room apartment in quiet location, 65m2+15m2 balcony, accomodates 4+2, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!"
-        </div>
-        <a1 href="#" class="moreinfobtn">More info</a1>
-      </div>
-      <div class="clear"></div>
-     </div>
+
      
   
   <script>
