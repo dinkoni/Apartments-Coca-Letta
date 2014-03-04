@@ -3,31 +3,74 @@
 <head>
 <meta charset="UTF-8">
 <title>Apartments Coca-Letta</title>
-<link rel="stylesheet" href="css-main.css"> 
+<link rel="stylesheet" type="text/css" href="Box-choices.css"> 
+<link rel="stylesheet" type="text/css" href="css-main.css"> 
+<link rel="stylesheet" type="text/css" href="colorbox.css">
+<script src="js/jquery.colorbox-min.js"></script>
+
+<script>
+		$(document).ready(function(){
+			$(".gallerytango").colorbox({rel:'gallerytango', slideshow:true, width:"75%", height:"75%", slideshowSpeed:3000});
+			$(".gallerymilonga").colorbox({rel:'gallerymilonga', slideshow:true, width:"75%", height:"75%", slideshowSpeed:3000});
+
+		});
+</script>
+        
 </head>
 
 <body>
 	<div id="boxcc" class="box-choices-container">
       <div class="box-choices-item">
-      	<div class="box-choices-item-title">
-        	<a>Apartment "Tango" 2+1</a>
+      	<div class="box-choices-item-title-container">
+        	<a class="box-choices-item-title">Apartment "Tango" 2+1</a>
         </div>
         <img src="Media/IMG_0020.jpg"  alt="" width="250" height="184" class=""/>
         <div class="box-choices-item-description">
         	Cozy 1-room apartment in quiet location, 55m2+18m2 terrace, accomodates 2+1, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!
         </div>
-        <a1 href="#" class="moreinfobtn">More info</a1>
+        
+        	<a class="gallerytango moreinfobtn"  href="Media/Apartmani Rovinj galerija/A2/IMG_0027.JPG" title="Apartment Tango">Gallery</a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0029.JPG" title="Apartment Tango"></a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0470.JPG" title="Apartment Tango"></a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0025.JPG" title="Apartment Tango"></a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0026.JPG" title="Apartment Tango"></a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0024.JPG" title="Apartment Tango"></a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0020.JPG" title="Apartment Tango"></a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0027.JPG" title="Apartment Tango"></a>
+           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/IMG_0029.JPG" title="Apartment Tango"></a>    				           <a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/photo2.JPG" title="Apartment Tango"></a>
+			<a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/Tango nacrt_1.JPG" title="Apartment Tango"></a>
+			<a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/Tango nacrt_2.JPG" title="Apartment Tango"></a>
+			<a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/Tango nacrt_3.JPG" title="Apartment Tango"></a>	
       </div>
+      
       <div class="box-choices-item-separator"></div>
+      
       <div class="box-choices-item">
-      	<div class="box-choices-item-title">
-      		<a>Apartment "Milonga" 4+2</a>
+      	<div class="box-choices-item-title-container">
+      		<a class="box-choices-item-title">Apartment "Milonga" 4+2</a>
        </div>
         <img src="Media/IMG_0444.jpg"  alt="" width="250" height="184" class=""/>
         <div class="box-choices-item-description">
         	Cozy 2-room apartment in quiet location, 65m2+15m2 balcony, accomodates 4+2, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!
         </div>
-        <a1 href="#" class="moreinfobtn">More info</a1>
+        <div>
+        	<a class="gallerymilonga moreinfobtn"  href="Media/Apartmani Rovinj galerija/B4/IMG_0444.JPG" title="Apartment Milonga">Gallery</a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0447.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0448.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0449.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0451.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0456.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0460.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0467.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/photo3.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/photo4.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/photo5.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/photo7.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/photo8.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/Milonga nacrt_1.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/Milonga nacrt_2.JPG" title="Apartment Milonga"></a>
+           <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/Milonga nacrt_3.JPG" title="Apartment Milonga"></a>
+        </div>
       </div>
       <div class="clear"></div>
     </div>

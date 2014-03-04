@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.moreinfobtn {
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 14px;
+  background: #69737a;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  text-align:center;
+  display: inline-block;
+}
+.moreinfobtn:hover {
+  background: #949ca1;
+  text-decoration: none;
+}
+.moreinfobtn:active {
+	position:relative;
+	top:1px;
+}
+
+.box-choices-container {
+	position:relative;
+	height: 25em;
+	width: 50em;
+	margin: 0 auto;
+	padding:0;
+}
+.box-choices-item {
+	height: 25em;
+	width: 23em;
+	margin: 0;
+	background-color:#F1F0F0;
+	float:left;
+	text-align:center;
+}
+.box-choices-item-separator {
+	height: 25em;
+	width: 3em;
+	margin: 0;
+	float:left;
+}
+.clear {clear: both;}
+
+.box-choices-item-title-container {
+		margin-bottom:0.5em;
+		margin-top:0.5em;
+}
+.box-choices-item-title {
+	position:relative;
+	font-family: Tangerine, serif;
+    font-size: 2.5em;
+	text-decoration: none;
+ 	color:#000000;
+}
+
+.box-choices-item-description {
+	position:relative;
+	height:5.5em;
+	margin: 0.5em;
+	font-family:Signika, Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
