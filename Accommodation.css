@@ -1,23 +1,23 @@
 @charset "UTF-8";
-/* CSS Document */
+/* Accommodationinfo.css CSS Document */
 
-#kontejnercontact {
+#kontejnerAccommodation {
 	position:relative;
 	height:80%;
-	width:50%;
+	width:80%;
 	background-color:#F1F0F0;
 	margin: 0 auto;
 	padding-top: 1em;
 }
 
-#kontaktinfo {
+#Accommodationinfo {
 	position:relative;
 	height:80%;
 	width:60%;
 	margin: 0 auto;
 }
 
-#kontaktinfo p {
+#Accommodationinfoinfo p {
 	margin:0;
 	padding:0;
 }

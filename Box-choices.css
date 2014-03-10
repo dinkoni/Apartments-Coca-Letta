@@ -20,12 +20,14 @@
 	top:1px;
 }
 
+
 .box-choices-container {
 	position:relative;
 	height: 25em;
 	width: 50em;
 	margin: 0 auto;
 	padding:0;
+	top: 5em;
 }
 .box-choices-item {
 	height: 25em;

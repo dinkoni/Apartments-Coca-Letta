@@ -2,14 +2,15 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="content-script-type" content="text/javascript">
   <title>Apartments Coca-Letta</title>
   
   <!-- SlidesJS Required (if responsive): Sets the page width to the device width. -->
   <meta name="viewport" content="width=device-width">
   <!-- End SlidesJS Required -->
   <link rel="stylesheet" type="text/css" href="css-main.css"> 
-  <link rel="stylesheet" type="text/css" href="css-slide.css"> 
-  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+<!--  <link rel="stylesheet" type="text/css" href="css-slider.css"> 
+-->  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Signika">
   
   <script src="js/jquery-2.1.0.min.js"></script>
@@ -33,6 +34,9 @@ $(document).ready(function(){
 	$('#btn_rates').click(function(){   
        $('#middlepagecontainer').load("Rates.html");
     });
+	$('#btn_accomodation').click(function(){   
+       $('#middlepagecontainer').load("Accommodation.html");
+    });
 });
 </script>
 
@@ -46,20 +50,24 @@ $(document).ready(function(){
   <div id="main_slider_kontejner">   
   	<div id="mainmenu">
         	<ul class="nav">
-           	  <li><a id="btn_home"  href="#">Apartments Coca-Letta</a></li>
+           	  <li><a id="btn_home"  href="#">Home</a></li>
+                <li><a id="btn_accomodation"  href="#">Accomodation</a></li>
                 <li><a id="btn_rates" href="#">Rates</a></li>
-                <li><a id="btn_contact" href="#">Contact</a></li>
-                <li><a id="btn_about"  href="#">About</a></li>
+                <li><a id="btn_contact" href="#">Contact/Booking</a></li>
+<!--                                <li><a id="btn_about"  href="#">About Rovinj</a></li> -->
            </ul>
     </div>
     
 	<div id="slides">
-      <img src="Media/IMG_0439.JPG" alt="">
-      <img src="Media/IMG_0104.JPG" alt="">
-      <img src="Media/IMG_0020.JPG" alt="">
-      <img src="Media/008.JPG" alt="">
-      <img src="Media/IMG_0444.JPG" alt="">
-      <img src="Media/IMG_0437.JPG" alt="">
+	   <img src="Media/IMG_0104.jpg" alt="">
+      <img src="Media/IMG_0020.jpg" alt="">
+      <img src="Media/IMG_0439.jpg" alt="">
+      <img src="Media/IMG_0024.jpg" alt="">
+      <img src="Media/IMG_0104.jpg" alt="">
+      <img src="Media/IMG_0020.jpg" alt="">
+      <img src="Media/008.jpg" alt="">
+      <img src="Media/IMG_0444.jpg" alt="">
+      <img src="Media/IMG_0437.jpg" alt="">
 	</div>    
     
 
@@ -120,7 +128,7 @@ $(document).ready(function(){
         <img src="Media/Googlepluslogo.png" width="40" height="41" style="border: 0px; position:absolute; bottom:0;" /></a>					
     </div> 
     <div id="guglmaplocation">
-<!-- 		<iframe src="https://mapsengine.google.com/map/embed?mid=zBaQ_Fo9hTz8.knb_uLxsOPeY" width="100%" height="100%"></iframe>-->
+ <!--		<iframe src="https://mapsengine.google.com/map/embed?mid=zBaQ_Fo9hTz8.knb_uLxsOPeY" width="100%" height="100%"></iframe>-->
     </div>
     
   </div>
