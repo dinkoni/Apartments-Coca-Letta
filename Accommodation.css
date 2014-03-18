@@ -3,8 +3,8 @@
 
 #kontejnerAccommodation {
 	position:relative;
-	height:80%;
-	width:80%;
+	height:100%;
+	width:100%;
 	background-color:#F1F0F0;
 	margin: 0 auto;
 	padding-top: 0.5em;
@@ -12,8 +12,8 @@
 
 #Accommodationinfo {
 	position:relative;
-	height:80%;
-	width:60%;
+	height:100%;
+	width:100%;
 	margin: 0 auto;
 }
 
@@ -32,7 +32,19 @@
 
 #left {
 	float: left;
-	margin-right: 5em;
+	margin-right: 2em;
 }
 #right {
+}
+
+#general_description {
+	float:left;
+	height:75%;
+	width:40%;
+	margin: 0 3em;
+}
+#general_description a {
+	font-size:14px;
+	font-family:Arial;
+	color:#000000;
 }
