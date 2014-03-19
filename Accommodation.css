@@ -1,5 +1,8 @@
 @charset "UTF-8";
 /* Accommodationinfo.css CSS Document */
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
 
 #kontejnerAccommodation {
 	position:relative;
@@ -8,6 +11,7 @@
 	background-color:#F1F0F0;
 	margin: 0 auto;
 	padding-top: 0.5em;
+	min-height:25em;	
 }
 
 #Accommodationinfo {
@@ -26,7 +30,7 @@
 	height:auto;
 	width:auto;
 	font-size:14px;
-	font-family:Arial;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	color:#000000;
 }
 
@@ -45,6 +49,6 @@
 }
 #general_description a {
 	font-size:14px;
-	font-family:Arial;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	color:#000000;
 }

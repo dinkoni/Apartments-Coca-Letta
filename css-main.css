@@ -179,7 +179,6 @@ body {
 	font-size:12px;
 }
 .footerFolowUs {
-	/*width: 4em;*/
 	height: 90%;
 	margin: 1em 0 0 0;
 	float:left;
@@ -188,4 +187,9 @@ body {
 	text-decoration: none;
 	color:#FFF;
 	font-size:12px;
+}
+#footerlinks {
+	width:20em;
+	heigth:10em;
+	background-color:#559F55;
 }
