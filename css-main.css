@@ -46,7 +46,7 @@
 	height: 3em;
 	width: 100%;
 	color:#000;
-	z-index: 1000;
+	z-index: 101;
 	margin: 0 auto;
 	/*
 	background-color: #FFF;
@@ -125,16 +125,20 @@ body {
 }
  
 #middlepagecontainer {
+	position:absolute;
 	height: 70%;
 	width: 80%;
 	bottom: 0;
-	margin: 0 auto;
 	z-index: 100;
+/*
+	margin: 0 auto;
+*/	
 	left:50%;
     -webkit-transform: translate(-50%);
     -moz-transform: translate(-50%);
-   transform: translate(-50%);
-   position:absolute;
+    -ms-transform: translate(-50%);
+	-o-transform: translate(-50%);
+    transform: translate(-50%);
 }
 
 .footer {
@@ -191,5 +195,4 @@ body {
 #footerlinks {
 	width:20em;
 	heigth:10em;
-	background-color:#559F55;
 }

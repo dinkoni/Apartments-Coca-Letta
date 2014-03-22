@@ -22,11 +22,24 @@
 
 
 .box-choices-container {
-	position:relative;
+/*	position:relative;
+	height: 25em;
+	width: 50em;
+	margin: 0 auto;
+	padding:0;*/
+	
+	position:absolute;
+	bottom: 0;
 	height: 25em;
 	width: 50em;
 	margin: 0 auto;
 	padding:0;
+	left:50%;
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+	-o-transform: translate(-50%);
+    transform: translate(-50%);
 }
 .box-choices-item {
 	height: 25em;

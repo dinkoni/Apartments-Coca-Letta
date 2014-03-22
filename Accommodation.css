@@ -11,7 +11,8 @@ body {
 	background-color:#F1F0F0;
 	margin: 0 auto;
 	padding-top: 0.5em;
-	min-height:25em;	
+	min-height:25em;
+	line-height: 1;
 }
 
 #Accommodationinfo {
@@ -27,11 +28,14 @@ body {
 }
 
 .listitems {
-	height:auto;
+	height:75%;
 	width:auto;
 	font-size:14px;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	color:#000000;
+	list-style:none;
+    padding:0;
+    margin: 0;
 }
 
 #left {
@@ -45,7 +49,7 @@ body {
 	float:left;
 	height:75%;
 	width:40%;
-	margin: 0 3em;
+	margin: 0 2em;
 }
 #general_description a {
 	font-size:14px;
