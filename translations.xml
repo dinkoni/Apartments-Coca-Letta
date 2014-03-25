@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<translation id="tr_apartments">
+		<hr>Apartmani</hr>
+		<en>Apartments</en>
+		<it>Appartamenti</it>
+		<ru>Aпартаменты</ru>
+		<de>Apartments</de>
+		<hu>Apartments</hu>
+		<cz>Apartments</cz>
+		<pl>Apartments</pl>
+	</translation>
+	<translation id="tr_apartment">
+		<hr>Apartman</hr>
+		<en>Apartment</en>
+		<it>Appartamento</it>
+		<ru>Aпартамент</ru>
+		<de>Apartment</de>
+		<hu>Apartment</hu>
+		<cz>Apartment</cz>
+		<pl>Apartment</pl>
+	</translation>
+	<translation id="tr_header_intro_text">
+		<hr>Komforan i povoljan smještaj u Rovinju. Od 1987.</hr>
+		<en>Cozy, affordable accommodation in Rovinj, Croatia. Since 1987.</en>
+		<it>Appartamenti confortevoli, a prezzi modici - Rovigno, Croazia - dal 1987.</it>
+		<ru>Уютная, доступное жилье в Ровинь, Хорватия. С 1987 года.</ru>
+		<de>Gemütliche und günstige Unterkünfte in Rovinj, Kroatien. Seit 1987.</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_hrvatska">
+		<hr>Hrvatska</hr>
+		<en>Croatia</en>
+		<it>Croazia</it>
+		<ru>Хорватия</ru>
+		<de>Kroatien</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_mmenu1">
+		<hr>Naslovnica</hr>
+		<en>Home</en>
+		<it>Home</it>
+		<ru>Главная</ru>
+		<de>Startseite</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_mmenu2">
+		<hr>Smještaj</hr>
+		<en>Accommodation</en>
+		<it>Accomodazione</it>
+		<ru>Жилище</ru>
+		<de>Unterkunft</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_mmenu3">
+		<hr>Cijene</hr>
+		<en>Rates</en>
+		<it>Prezzi</it>
+		<ru>Цены</ru>
+		<de>Preise</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_mmenu4">
+		<hr>Kontakt/Rezervacije</hr>
+		<en>Contact/Booking</en>
+		<it>Contatti/Prenotazione</it>
+		<ru>Контактная информация</ru>
+		<de>Kontakt/Buchung</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_folowus">
+		<hr>Pratite nas:</hr>
+		<en>Follow Us:</en>
+		<it>Seguici su:</it>
+		<ru>Следуйте:</ru>
+		<de>Folgen Sie uns:</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	
+	<translation id="tr_Tango_short_desc">
+		<hr>Komforan 1-soban apartman na mirnoj lokaciji, 55m2+18m2 terasa, 2+1, privatan parking, plaže 900m, centar 4km, besplatan WiFi Internet, kućni ljubimci dobrodošli, flexibilan check-in/out!</hr>
+		<en>Cozy 1-room apartment in quiet location, 55m2+18m2 terrace, accomodates 2+1, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!</en>
+		<it>Appartamento confortevole, 1 camera, area tranquilla, 55m2+18m2 terrazza, 2+1, parcheggio privato, spiaggia 900m, WiFi gratuito, gli animali domestici sono benvenuti, check-in/out flessibile!</it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_Milonga_short_desc">
+		<hr>Komforan 2-soban apartman na mirnoj lokaciji, 65m2+15m2 balkon, 4+2, privatan parking, plaže 900m, centar 4km, besplatan WiFi Internet, kućni ljubimci dobrodošli, flexibilan check-in/out!</hr>
+		<en>Cozy 2-room apartment in quiet location, 65m2+15m2 balcony, accomodates 4+2, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!</en>
+		<it>Appartamento confortevole, 2 camere, area tranquilla, 65m2+15m2 balcone, 4+2, parcheggio privato, spiaggia 900m, WiFi gratuito, gli animali domestici sono benvenuti, check-in/out flessibile!</it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_gallery">
+		<hr>Galerija</hr>
+		<en>Gallery</en>
+		<it>Galleria</it>
+		<ru>Галерея</ru>
+		<de>Galerie</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_rates_tango">
+		<hr>Apartman "Tango" - 2 osobe, dnevno</hr>
+		<en>Apartment "Tango" - 2 persons, per night</en>
+		<it>Appartamento "Tango" - 2 persone, a notte</it>
+		<ru>Квартира "Танго" - 2 человека, за ночь</ru>
+		<de>Apartment "Tango" - 2 Personen pro Nacht</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_rates_milonga">
+		<hr>Apartman "Milonga" - 4 osobe, dnevno</hr>
+		<en>Apartment "Milonga" - 4 persons, per night</en>
+		<it>Appartamento "Milonga" - 4 persone, a notte</it>
+		<ru>Квартира "Милонга" - 4 человека, за ночь</ru>
+		<de>Apartment "Milonga" - 4 Personen pro Nacht</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_rates_addbed">
+		<hr>Dodatan ležaj</hr>
+		<en>Additional bed</en>
+		<it>Letto supplementare</it>
+		<ru>Дополнительная кровать</ru>
+		<de>Zusatzbett</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_prices_reserv">
+		<hr>Za rezervaciju zahtijevamo avansnu uplatu 20% ukupnog iznosa.</hr>
+		<en>To confirm reservation we practice advance payment 20% of the total.</en>
+		<it>Per confermare la prenotazione si pratica il pagamento anticipato del 20% del totale.</it>
+		<ru>Для подтверждения бронирования мы практикуем Аванс 20% от общей суммы.</ru>
+		<de>Um die Reservierung zu bestätigen, wir üben Anzahlung 20% des Gesamtbetrags.</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_prices_add_serv">
+		<hr>Dodatne opcije:</hr>
+		<en>Additional services:</en>
+		<it>Servizi aggiuntivi:</it>
+		<ru>Дополнительные услуги:</ru>
+		<de>Zusatzleistungen:</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_prices_pets">
+		<hr>kućni ljubimci: 5 eura po noćenju po ljubimcu</hr>
+		<en>pets: 5 euro per day per pet</en>
+		<it>animali domestici: 5 euro al giorno per animale</it>
+		<ru>домашние животные: 5 евро в день за питомца</ru>
+		<de>Haustiere: 5 Euro pro Tag pro Tier</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_prices_pac">
+		<hr>uporaba klima uređaja: 5 eura po danu po jedinici</hr>
+		<en>air-con: 5 euro per day per item</en>
+		<it>aria condizionata: 5 euro al giorno per dispositivo</it>
+		<ru>кондиционер: 5 евро в день на устройство</ru>
+		<de>Klimaanlage: 5 Euro pro Tag pro Gerät</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_prices_wasm">
+		<hr>uporaba perilice rublja 5 eura po uporabi</hr>
+		<en>washing machine use 5 eur</en>
+		<it>lavatrice 5 euro per uso</it>
+		<ru>стиральная машина использовать 5 евро</ru>
+		<de>Waschmaschine benutzen 5 eur</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_prices_wifi">
+		<hr>DSL WiFi Internet - GRATIS</hr>
+		<en>DSL WiFi Internet - FREE</en>
+		<it>DSL WiFi Internet - GRATUITO</it>
+		<ru>DSL WiFi Интернет - БЕСПЛАТНО</ru>
+		<de>DSL WiFi Internet - GRATIS</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_prices_parking">
+		<hr>privatno parkirno mjesto - GRATIS</hr>
+		<en>private parking place - FREE</en>
+		<it>parcheggio privato - GRATIS</it>
+		<ru>отдельное парковочное место - БЕСПЛАТНО</ru>
+		<de>Privatparkplatz - GRATIS</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="">
+		<hr></hr>
+		<en></en>
+		<it></it>
+		<ru></ru>
+		<de></de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	
+</translations>
