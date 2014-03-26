@@ -14,7 +14,7 @@
 		<hr>Apartman</hr>
 		<en>Apartment</en>
 		<it>Appartamento</it>
-		<ru>Aпартамент</ru>
+		<ru>Квартира</ru>
 		<de>Apartment</de>
 		<hu>Apartment</hu>
 		<cz>Apartment</cz>
@@ -95,8 +95,8 @@
 		<hr>Komforan 1-soban apartman na mirnoj lokaciji, 55m2+18m2 terasa, 2+1, privatan parking, plaže 900m, centar 4km, besplatan WiFi Internet, kućni ljubimci dobrodošli, flexibilan check-in/out!</hr>
 		<en>Cozy 1-room apartment in quiet location, 55m2+18m2 terrace, accomodates 2+1, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!</en>
 		<it>Appartamento confortevole, 1 camera, area tranquilla, 55m2+18m2 terrazza, 2+1, parcheggio privato, spiaggia 900m, WiFi gratuito, gli animali domestici sono benvenuti, check-in/out flessibile!</it>
-		<ru></ru>
-		<de></de>
+		<ru>Уютная 1-комнатная квартира в тихом месте, 55м2 +18 м2 терраса, вмещает 2 +1, частная парковка, пляжи 900, свободный Wi-Fi, домашние животные, гибкий регистрация заезда и отъезда!</ru>
+		<de>Gemütliche 1-Zimmer-Wohnung in ruhiger Lage, 55m2 +18 m2 Terrasse, Platz für 2 +1, Privatparkplätze, Strände 900m, kostenfreies WLAN, Haustiere sind willkommen, flexible und Auschecken!</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
@@ -105,8 +105,8 @@
 		<hr>Komforan 2-soban apartman na mirnoj lokaciji, 65m2+15m2 balkon, 4+2, privatan parking, plaže 900m, centar 4km, besplatan WiFi Internet, kućni ljubimci dobrodošli, flexibilan check-in/out!</hr>
 		<en>Cozy 2-room apartment in quiet location, 65m2+15m2 balcony, accomodates 4+2, private parking, beaches 900m, town center 4km, free WiFi, pets are welcome, flexible check-in/out!</en>
 		<it>Appartamento confortevole, 2 camere, area tranquilla, 65m2+15m2 balcone, 4+2, parcheggio privato, spiaggia 900m, WiFi gratuito, gli animali domestici sono benvenuti, check-in/out flessibile!</it>
-		<ru></ru>
-		<de></de>
+		<ru>Уютная 2-х комнатная квартира в тихом месте, 65м2 +15 м2 балкон, вмещает 4+2, парковка, пляжи 900, свободный Wi-Fi, домашние животные, гибкий регистрация заезда и отъезда!</ru>
+		<de>Gemütliche 2-Zimmer-Wohnung in ruhiger Lage, 65m2 +15 m2 Balkon, Platz für 4+2, Privatparkplätze, Strände 900m, kostenfreies WLAN, Haustiere sind willkommen, flexible und Auschecken!</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
@@ -184,7 +184,7 @@
 	<translation id="tr_prices_pac">
 		<hr>uporaba klima uređaja: 5 eura po danu po jedinici</hr>
 		<en>air-con: 5 euro per day per item</en>
-		<it>aria condizionata: 5 euro al giorno per dispositivo</it>
+		<it>aria condizionata: 5 euro al giorno per disposgititivo</it>
 		<ru>кондиционер: 5 евро в день на устройство</ru>
 		<de>Klimaanlage: 5 Euro pro Tag pro Gerät</de>
 		<hu></hu>
@@ -221,92 +221,272 @@
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_welcome">
+		<hr>Dobrodošli</hr>
+		<en>Welcome</en>
+		<it>Benvenuti</it>
+		<ru>Добро пожаловать</ru>
+		<de>Willkommen</de>
+		<hu>Fogadtatás</hu>
+		<cz>Vítáme vás</cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_cozy">
+		<hr>Komforan</hr>
+		<en>Cozy</en>
+		<it>Confortevole</it>
+		<ru>Уютная</ru>
+		<de>Gemütliche</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_descr01">
+		<hr> i povoljan smještaj u Rovinju - biseru Jadrana. Apartmani su potpuno opremljeni za kratkoročan ili dugoročan boravak. Nalaze se u mirnom kvartu Rovinja, daleko od gradske buke i prometa, idealno za parove i obitelji.</hr>
+		<en>, yet affordable apartments in Rovinj, Croatia, fully equipped for short/long term living. Located in beautiful part of the town, in laid back area, far from noisy traffic, bars, discos. Ideal for couples/families.</en>
+		<it>, tuttavia a prezzi accessibili, completamente attrezzati per vivere a breve / lungo termine. Situati nella splendida parte della città, zona rilassata, lontano dal traffico rumoroso, bar, discoteche. Ideale per le coppie/famiglie.</it>
+		<ru>, еще доступные квартиры, полностью оборудованная для краткости/долгосрочного проживания. Расположенный в красивой части города, в положил обратно районе, вдали от шумного движения, баров, дискотек. Идеально подходит для пар/семей.</ru>
+		<de>, dennoch erschwingliche Apartments, voll für kurze/lange Sicht Wohnen ausgestattet. Das Apartments  liegt im schönen Teil der Stadt, im Bereich entspannte, weit weg vom Verkehrslärm, Bars, Diskotheken. Ideal für Paare/Familien.</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_descr02">
+		<hr>Uživajte u obližnjim "divljim" uvalama čistih plaža i bistrog mora, intimnog karaktera. U blizini se nalazi kamp sa pješčanom plažom i bazenima, iznimno popularan porodicama s djecom.</hr>
+		<en>Enjoy easy access to nearby coves with clean, intimate, uncrowded beaches (pebble/rocks). There is a send beach and swimming pools   nearby, extremely popular with families with small kids.</en>
+		<it>Godete facile accesso alle vicine insenature con spiagge pulite e intime, poco affollate (ghiaia/ roccia). C'è una spiaggia di sabbia nelle vicinanze, estremamente popolare tra le famiglie con bambini piccoli.</it>
+		<ru>От отеля легко добраться до близлежащих бухт с чистыми, интимных, безлюдных пляжей (галечные/пород). Существует отправить пляж и бассейны рядом, очень популярен среди семей с маленькими детьми.</ru>
+		<de>Genießen Sie einen einfachen Zugang zu den nahe gelegenen Buchten mit sauberen, intim, menschenleeren Stränden (Kiesel/Felsen). Es ist ein Sende Strand und Schwimmbäder in der Nähe, sehr beliebt bei Familien mit  Kindern.</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_descr03">
+		<hr>U blizini se nalaze 2 restorana (50m), nude morske specijalitete kao i jela sa roštilja, pizze i sl.</hr>
+		<en>There are two traditional Croatian restaurants nearby (50m), offering wide range of delicious meals (seafood/grill/domestic specialties).</en>
+		<it>Ci sono due ristoranti tradizionali croati accanto (50m), offrendo un'ampia gamma di deliziosi piatti (pesce / griglia / specialità nazionali).</it>
+		<ru>Есть два традиционных хорватских ресторанов поблизости (50м), предлагая широкий спектр вкусных блюд (морепродукты/гриль/отечественные специальностей).</ru>
+		<de>Es gibt zwei traditionelle kroatische Restaurants in der Nähe (50m) und bietet große Auswahl an köstlichen Speisen (Meeresfrüchte/Grill/Hausspezialitäten).</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_features">
+		<hr>Značajke:</hr>
+		<en>Features:</en>
+		<it>Caratteristiche:</it>
+		<ru>Особенности:</ru>
+		<de>Eigenschaften:</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_l01">
+		<hr>Sat TV</hr>
+		<en>Sat TV</en>
+		<it>Sat TV</it>
+		<ru>Sat TV</ru>
+		<de>Sat-TV</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_l02">
+		<hr>Klima uređaj</hr>
+		<en>Air-conditioner</en>
+		<it>Climatizzazione</it>
+		<ru>Кондиционер воздуха</ru>
+		<de>Klimaanlage</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_l03">
+		<hr>Perilica rublja</hr>
+		<en>Washing machine</en>
+		<it>Lavatrice</it>
+		<ru>стиральная машина</ru>
+		<de>Waschmaschine</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
-	<translation id="">
-		<hr></hr>
-		<en></en>
-		<it></it>
-		<ru></ru>
-		<de></de>
+	<translation id="tr_ac_l04">
+		<hr>DSL WiFi Internet - BESPLATNO</hr>
+		<en>DSL WiFi Internet - FREE</en>
+		<it>DSL WiFi Internet - GRATUITO</it>
+		<ru>DSL WiFi Интернет - БЕСПЛАТНО</ru>
+		<de>DSL WiFi Internet - GRATIS</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l05">
+		<hr>Privatno parking mjesto - GRATIS</hr>
+		<en>Private parking place - FREE</en>
+		<it>Parcheggio privato - GRATIS</it>
+		<ru>Частная автостоянка - БЕСПЛАТНО</ru>
+		<de>Private Parkplatz - GRATIS</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l06">
+		<hr>Kuhinjsko posuđe</hr>
+		<en>Kitchenware</en>
+		<it>Utensili da cucina</it>
+		<ru>кухонные принадлежности</ru>
+		<de>Geschirr</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l07">
+		<hr>Posteljina i ručnici</hr>
+		<en>Linen and towels</en>
+		<it>Lenzuola e asciugamani</it>
+		<ru>Постельное белье и полотенца</ru>
+		<de>Bettwäsche und Handtücher</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l08">
+		<hr>Hladnjak sa zamrzivačem</hr>
+		<en>Refrigerator with freezer</en>
+		<it>Frigorifero con congelatore</it>
+		<ru>Холодильник с морозильником</ru>
+		<de>Kühlschrank mit Gefrierfach</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l09">
+		<hr>Aparat za kavu</hr>
+		<en>Coffee machine</en>
+		<it>Macchina da caffè</it>
+		<ru>кофеварка</ru>
+		<de>Kaffeemaschine</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l10">
+		<hr>Terasa/Balkon</hr>
+		<en>Terrace/Balcony</en>
+		<it>Terrazza/Balcone</it>
+		<ru>Терраса/Балкон</ru>
+		<de>Terrasse/Balkon</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l11">
+		<hr>Roštilj</hr>
+		<en>Grill at open</en>
+		<it>Grill</it>
+		<ru>Гриль под открытым</ru>
+		<de>Grill</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l12">
+		<hr>Fleksibilno vrijeme dolaska/odlaska</hr>
+		<en>Flexible check-in/out</en>
+		<it>Check-in/out flessibile</it>
+		<ru>Гибкая регистрация заезда и отъезда</ru>
+		<de>Flexible check-in/out</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_l13">
+		<hr>Kućni ljubimci su dobrodošli</hr>
+		<en>Pets are welcome</en>
+		<it>Gli animali domestici sono benvenuti</it>
+		<ru>Домашних животных</ru>
+		<de>Haustiere sind willkommen</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_distances">
+		<hr>Udaljenosti:</hr>
+		<en>Distances:</en>
+		<it>Distanze:</it>
+		<ru>Расстояния:</ru>
+		<de>Entfernungen:</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_d01">
+		<hr>Plaže 900m</hr>
+		<en>Beach 900m</en>
+		<it>Spiaggia 900m</it>
+		<ru>Пляж 900м</ru>
+		<de>Strand 900m</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_d02">
+		<hr>Restorani 50-100m</hr>
+		<en>Restaurants 50-100m</en>
+		<it>Ristoranti 50-100m</it>
+		<ru>Рестораны 50-100м</ru>
+		<de>Restaurants 50-100m</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_d03">
+		<hr>Zračna luka Pula 25km</hr>
+		<en>Airport Pula 25km</en>
+		<it>Aeroporto di Pola 25 km</it>
+		<ru>Аэропорт Пула 25 км</ru>
+		<de>Flughafen Pula 25km</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_d04">
+		<hr>Centar grada 4km</hr>
+		<en>Town center 4km</en>
+		<it>Centro 4 km</it>
+		<ru>Центр города 4 км</ru>
+		<de>Ortszentrum 4 km</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_d05">
+		<hr>Trgovina 200m</hr>
+		<en>Market 200m</en>
+		<it>Negozio 200m</it>
+		<ru>Магазин 200м</ru>
+		<de>Markt 200m</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_d06">
+		<hr>Najam bicikla 200m</hr>
+		<en>Rent-a-bike 200m</en>
+		<it>Rent-a-bike 200m</it>
+		<ru>Прокат велосипедов 200м</ru>
+		<de>Rent-a-bike 200m</de>
+		<hu></hu>
+		<cz></cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_ac_d07">
+		<hr>Mjenjačnica 200m</hr>
+		<en>Currency exchange 200m</en>
+		<it>Cambio valuta 200m</it>
+		<ru>Обмен валюты 200м</ru>
+		<de>Geldwechsel 200m</de>
 		<hu></hu>
 		<cz></cz>
 		<pl></pl>

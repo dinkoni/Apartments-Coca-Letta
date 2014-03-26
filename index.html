@@ -82,9 +82,10 @@ alt="web analytics"></a></div></noscript>
 <script type="text/javascript">
 $(document).ready(function(){
 	$('.btn').click(function(e){
-		  e.preventDefault();
-		  $("#middlepagecontainer").load($(this).attr('href')+".html"); 
-		  refreshLanguageTransl();
+		e.preventDefault();
+		$("#middlepagecontainer").load($(this).attr('href')+".html",function () {
+			refreshLanguageTransl();
+		});
 	});
 });
 </script>
@@ -93,23 +94,25 @@ $(document).ready(function(){
 <div id="main_div">
 
 	<script type="text/javascript">
-		setSelectedLanguage("en");  //init
+		initTranslator("en");  //init
 	</script>
 	<div id="polyglotLanguageSwitcher">
 	  <form action="#">
         <select id="languageselctr">
-         <option value="HR" id="hr">Hrvatski</option>
-         <option value="EN" id="en" selected>English</option>
          <option value="DE" id="de">Deutsch</option>
+         <option value="EN" id="en" selected>English</option>
+         <option value="HR" id="hr">Hrvatski</option>
          <option value="IT" id="it">Italiano</option>
          <option value="RU" id="ru">Русский</option>
-         <option value="CZ" id="cz">Čeština</option>
+         
+<!--         <option value="CZ" id="cz">Čeština</option>
          <option value="HU" id="hu">Magyar</option>
          <option value="FR" id="fr">Français</option>
          <option value="PL" id="pl">Polski</option>
          <option value="SK" id="sk">Slovenčina</option>
          <option value="ES" id="es">Espa&ntilde;ol</option>
-       </select>
+-->       
+		 </select>
       </form>
 	</div>
     

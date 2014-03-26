@@ -5,7 +5,7 @@
 	position:relative;
 	margin: 0 auto;
 	height:auto;
-	width:25em;
+	width:60%;
 	font-size:14px;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 	line-height: 1;
@@ -26,7 +26,7 @@
 .ratestable {
 	margin:0 auto 0.1em auto; 
 	padding:0;
-	width:90%;
+	width:80%;
 	border:1px solid #000000;
 	
 	-moz-border-radius-bottomleft:0px;
