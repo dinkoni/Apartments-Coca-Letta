@@ -22,12 +22,6 @@
 
 
 .box-choices-container {
-/*	position:relative;
-	height: 25em;
-	width: 50em;
-	margin: 0 auto;
-	padding:0;*/
-	
 	position:absolute;
 	bottom: 0;
 	height: 25em;
@@ -48,6 +42,7 @@
 	background-color:#F1F0F0;
 	float:left;
 	text-align:center;
+	line-height:1.1;
 }
 .box-choices-item-separator {
 	height: 25em;
