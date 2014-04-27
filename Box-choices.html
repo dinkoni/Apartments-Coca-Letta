@@ -6,16 +6,18 @@
 <link rel="stylesheet" type="text/css" href="Box-choices.css"> 
 <link rel="stylesheet" type="text/css" href="css-main.css"> 
 <link rel="stylesheet" type="text/css" href="colorbox.css">
-<script src="js/jquery.colorbox-min.js"></script>
+<link rel="stylesheet" type="text/css" href="modalbase.css">
 
+<!--<script src="js/jquery-1.11.0.min.js"></script>-->
+<script src="js/jquery.colorbox-min.js"></script>
+<script src="js/jquery.simplemodal.1.4.4.min.js"></script>
 <script>
 		$(document).ready(function(){
 			$(".gallerytango").colorbox({rel:'gallerytango', slideshow:true, width:"75%", height:"75%", slideshowSpeed:3000});
 			$(".gallerymilonga").colorbox({rel:'gallerymilonga', slideshow:true, width:"75%", height:"75%", slideshowSpeed:3000});
-
 		});
 </script>
-        
+
 </head>
 
 <body>
@@ -27,6 +29,14 @@
   ga('create', 'UA-49143275-1', 'apartments-coca-letta-rovinj.eu');
   ga('send', 'pageview');
 </script>
+
+<div class="basic-modal-content" id="modalCalTango">
+	<iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=1dts90nn2hsh2dqg4tsqqcm354%40group.calendar.google.com&amp;color=%23A32929&amp;ctz=Asia%2FBangkok" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+<div class="basic-modal-content" id="modalCalMilonga">
+    <iframe src="https://www.google.com/calendar/embed?showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=uorimk975d461p6soiuh7rk4e4%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Asia%2FBangkok" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+
 
 	<div id="boxcc" class="box-choices-container">
       <div class="box-choices-item">
@@ -52,6 +62,8 @@
 			<a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/Tango nacrt_1.jpg" title="Apartment Tango"></a>
 			<a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/Tango nacrt_2.jpg" title="Apartment Tango"></a>
 			<a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/Tango nacrt_3.jpg" title="Apartment Tango"></a>	
+
+           <a class="moreinfobtn tr_calendar" name="Tango" href="">Calendar</a>
       </div>
       
       <div class="box-choices-item-separator"></div>
@@ -67,6 +79,7 @@
         </div>
         <div>
         	<a class="gallerymilonga moreinfobtn tr_gallery"  href="Media/Apartmani Rovinj galerija/B4/IMG_0444.JPG" title="Apartment Milonga">Gallery</a>
+            
            <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0447.JPG" title="Apartment Milonga"></a>
            <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0448.JPG" title="Apartment Milonga"></a>
            <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/IMG_0449.JPG" title="Apartment Milonga"></a>
@@ -82,10 +95,28 @@
            <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/Milonga nacrt_1.jpg" title="Apartment Milonga"></a>
            <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/Milonga nacrt_2.jpg" title="Apartment Milonga"></a>
            <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/Milonga nacrt_3.jpg" title="Apartment Milonga"></a>
+           
+           <a class="moreinfobtn tr_calendar"  name="Milonga"  href="">Calendar</a>
+           
         </div>
       </div>
       <div class="clear"></div>
     </div>
      
+
+<script>
+		$(document).ready(function(){
+			$(".moreinfobtn").click(function(){
+				if($(this).attr('name') == "Tango"){
+					$('#modalCalTango').modal();
+					return false;
+				} else if($(this).attr('name') == "Milonga"){
+					$('#modalCalMilonga').modal();
+					return false;
+				}				
+			});	
+		});
+</script>
+
 </body>
 </html>
