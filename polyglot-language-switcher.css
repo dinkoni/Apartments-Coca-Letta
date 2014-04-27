@@ -22,8 +22,8 @@
 	float: right;
 /*	position:absolute;
 	top: 10px;
-	left: 20px;
-	z-index: 100;*/
+	left: 20px;*/
+	z-index: 1000;
 }
 
 #polyglotLanguageSwitcher form {
