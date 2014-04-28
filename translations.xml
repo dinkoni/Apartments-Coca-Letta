@@ -6,7 +6,7 @@
 		<it>Appartamenti</it>
 		<ru>Aпартаменты</ru>
 		<de>Apartments</de>
-		<hu>Apartments</hu>
+		<hu>Apartman</hu>
 		<cz>Apartments</cz>
 		<pl>Apartments</pl>
 	</translation>
@@ -16,7 +16,7 @@
 		<it>Appartamento</it>
 		<ru>Квартира</ru>
 		<de>Apartment</de>
-		<hu>Apartment</hu>
+		<hu>Apartman</hu>
 		<cz>Apartment</cz>
 		<pl>Apartment</pl>
 	</translation>
@@ -57,8 +57,9 @@
 		<ru>Жилище</ru>
 		<de>Unterkunft</de>
 		<hu>Szállás</hu>
-		<cz></cz>
-		<pl></pl>
+		<cz>Ubytování</cz>
+		<pl>Mieszkanie</pl>
+		<sk>Ubytovanie</sk>
 	</translation>
 	<translation id="tr_mmenu3">
 		<hr>Cijene</hr>
@@ -127,7 +128,7 @@
 		<it>Appartamento "Tango" - 2 persone, a notte</it>
 		<ru>Квартира "Танго" - 2 человека, за ночь</ru>
 		<de>Apartment "Tango" - 2 Personen pro Nacht</de>
-		<hu>Lakás "Tango" - 2 személy, éjszakánként</hu>
+		<hu>Apartman "Tango" - 2 személy, éjszakánként</hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
@@ -137,7 +138,7 @@
 		<it>Appartamento "Milonga" - 4 persone, a notte</it>
 		<ru>Квартира "Милонга" - 4 человека, за ночь</ru>
 		<de>Apartment "Milonga" - 4 Personen pro Nacht</de>
-		<hu>Lakás "Milonga" - 4 személy, éjszakánként</hu>
+		<hu>Apartman "Milonga" - 4 személy, éjszakánként</hu>
 		<cz></cz>
 		<pl></pl>
 	</translation>
@@ -227,7 +228,7 @@
 		<it>Benvenuti</it>
 		<ru>Добро пожаловать</ru>
 		<de>Willkommen</de>
-		<hu>Fogadtatás</hu>
+		<hu>Isten hozta</hu>
 		<cz>Vítáme vás</cz>
 		<pl></pl>
 	</translation>
