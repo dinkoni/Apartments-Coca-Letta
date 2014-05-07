@@ -7,7 +7,7 @@
 		<ru>Aпартаменты</ru>
 		<de>Apartments</de>
 		<hu>Apartman</hu>
-		<cz>Apartments</cz>
+		<cz>Apartmány</cz>
 		<pl>Apartments</pl>
 	</translation>
 	<translation id="tr_apartment">
@@ -27,7 +27,7 @@
 		<ru>Уютная, доступное жилье в Ровинь, Хорватия. С 1987 года.</ru>
 		<de>Gemütliche und günstige Unterkünfte in Rovinj, Kroatien. Seit 1987.</de>
 		<hu>Hangulatos, megfizethető szállást Rovinj, Horvátország. Mivel az 1987.</hu>
-		<cz></cz>
+		<cz>Pohodlné a cenově dostupné ubytování v Rovinji. Než v roce 1987.</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_hrvatska">
@@ -37,7 +37,7 @@
 		<ru>Хорватия</ru>
 		<de>Kroatien</de>
 		<hu>Horvátország</hu>
-		<cz></cz>
+		<cz>Chorvatsko</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_mmenu1">
@@ -47,7 +47,7 @@
 		<ru>Главная</ru>
 		<de>Startseite</de>
 		<hu>Főoldal</hu>
-		<cz></cz>
+		<cz>Domů</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_mmenu2">
@@ -68,7 +68,7 @@
 		<ru>Цены</ru>
 		<de>Preise</de>
 		<hu>Árak</hu>
-		<cz></cz>
+		<cz>Ceny</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_mmenu4">
@@ -78,7 +78,7 @@
 		<ru>Контактная информация</ru>
 		<de>Kontakt/Buchung</de>
 		<hu>Érintkezés/Booking</hu>
-		<cz></cz>
+		<cz>Kontakt/Rezervace</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_folowus">
@@ -88,7 +88,7 @@
 		<ru>Следуйте:</ru>
 		<de>Folgen Sie uns:</de>
 		<hu>Kövesse velünk:</hu>
-		<cz></cz>
+		<cz>Následujte nás:</cz>
 		<pl></pl>
 	</translation>
 	
@@ -99,7 +99,7 @@
 		<ru>Уютная 1-комнатная квартира в тихом месте, 55м2 +18 м2 терраса, вмещает 2 +1, частная парковка, пляжи 900, свободный Wi-Fi, домашние животные, гибкий регистрация заезда и отъезда!</ru>
 		<de>Gemütliche 1-Zimmer-Wohnung in ruhiger Lage, 55m2 +18 m2 Terrasse, Platz für 2 +1, Privatparkplätze, Strände 900m, kostenfreies WLAN, Haustiere sind willkommen, flexible check-in/out!</de>
 		<hu>Kellemes, 1 szobás lakás, csendes helyen, 55m2 +18m2 terasz, accomodates 2 +1, saját parkoló, strand 900m, városközpont 4km, ingyenes WiFi, háziállat is szívesen látjuk, rugalmas be-és kijelentkezést!</hu>
-		<cz></cz>
+		<cz>Komfortní 1-ložnicový byt v klidné lokalitě, 55 m2 18 m2 terasa, 2 +1, soukromé parkoviště, pláž 900 m, centrum 4 km, bezplatným Wi-Fi internetem, domácí zvířata vítána, Vyzvednutí flexibilan!</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_Milonga_short_desc">
@@ -109,7 +109,7 @@
 		<ru>Уютная 2-х комнатная квартира в тихом месте, 65м2 +15 м2 балкон, вмещает 4+2, парковка, пляжи 900, свободный Wi-Fi, домашние животные, гибкий регистрация заезда и отъезда!</ru>
 		<de>Gemütliche 2-Zimmer-Wohnung in ruhiger Lage, 65m2 +15 m2 Balkon, Platz für 4+2, Privatparkplätze, Strände 900m, kostenfreies WLAN, Haustiere sind willkommen, flexible check-in/out!</de>
 		<hu>Kellemes, 2 szobás lakás, csendes helyen, 65m2 +15m2 erkély, accomodates 4 +2, saját parkoló, strand 900m, városközpont 4km, ingyenes WiFi, háziállat is szívesen látjuk, rugalmas be-és kijelentkezést!</hu>
-		<cz></cz>
+		<cz>Komfortní třípokojový byt v klidné lokalitě, 65 m2 15 m2 terasa, 4 +2, soukromé parkoviště, pláž 900 m, centrum 4 km, bezplatným Wi-Fi internetem, domácí zvířata vítána, Vyzvednutí flexibilan!</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_gallery">
@@ -119,27 +119,27 @@
 		<ru>Галерея</ru>
 		<de>Galerie</de>
 		<hu>Fotógaléria</hu>
-		<cz></cz>
+		<cz>Galerie</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_rates_tango">
-		<hr>Apartman "Tango" - 2 osobe, dnevno</hr>
+		<hr>Apartman "Tango" - 2 osobe, noćenje</hr>
 		<en>Apartment "Tango" - 2 persons, per night</en>
 		<it>Appartamento "Tango" - 2 persone, a notte</it>
 		<ru>Квартира "Танго" - 2 человека, за ночь</ru>
 		<de>Apartment "Tango" - 2 Personen pro Nacht</de>
 		<hu>Apartman "Tango" - 2 személy, éjszakánként</hu>
-		<cz></cz>
+		<cz>Apartmán "Tango" - 2 osoby za noc</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_rates_milonga">
-		<hr>Apartman "Milonga" - 4 osobe, dnevno</hr>
+		<hr>Apartman "Milonga" - 4 osobe, noćenje</hr>
 		<en>Apartment "Milonga" - 4 persons, per night</en>
 		<it>Appartamento "Milonga" - 4 persone, a notte</it>
 		<ru>Квартира "Милонга" - 4 человека, за ночь</ru>
 		<de>Apartment "Milonga" - 4 Personen pro Nacht</de>
 		<hu>Apartman "Milonga" - 4 személy, éjszakánként</hu>
-		<cz></cz>
+		<cz>Apartmán "Milonga" - 4 osoby za noc</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_rates_addbed">
@@ -149,7 +149,7 @@
 		<ru>Дополнительная кровать</ru>
 		<de>Zusatzbett</de>
 		<hu>Pótágy</hu>
-		<cz></cz>
+		<cz>Přistýlka</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_prices_reserv">
@@ -159,7 +159,7 @@
 		<ru>Для подтверждения бронирования мы практикуем Аванс 20% от общей суммы.</ru>
 		<de>Um die Reservierung zu bestätigen, wir üben Anzahlung 20% des Gesamtbetrags.</de>
 		<hu>Foglalás megerősítéséhez gyakoroljuk előleg 20%-át.</hu>
-		<cz></cz>
+		<cz>Pro potvrzení rezervace cvičíme zaplacení zálohy 20% z celkové částky.</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_prices_add_serv">
@@ -169,17 +169,17 @@
 		<ru>Дополнительные услуги:</ru>
 		<de>Zusatzleistungen:</de>
 		<hu>Kiegészítő szolgáltatások:</hu>
-		<cz></cz>
+		<cz>Doplňkové služby:</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_prices_pets">
 		<hr>kućni ljubimci: 5 eura po noćenju po ljubimcu</hr>
-		<en>pets: 5 euro per day per pet</en>
-		<it>animali domestici: 5 euro al giorno per animale</it>
-		<ru>домашние животные: 5 евро в день за питомца</ru>
-		<de>Haustiere: 5 Euro pro Tag pro Tier</de>
-		<hu>Háziállat: 5 euro naponta állat</hu>
-		<cz></cz>
+		<en>pets: 5 eur per day per pet</en>
+		<it>animali domestici: 5 eur al giorno per animale</it>
+		<ru>домашние животные: 5 евр в день за питомца</ru>
+		<de>Haustiere: 5 Eur pro Tag pro Tier</de>
+		<hu>Háziállat: 5 eur naponta állat</hu>
+		<cz>domácí zvířata: 5 eur na den a zvíře</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_prices_pac">
@@ -189,7 +189,7 @@
 		<ru>кондиционер: 5 евро в день на устройство</ru>
 		<de>Klimaanlage: 5 Euro pro Tag pro Gerät</de>
 		<hu>Légkondicionálás: 5 € naponta egységnyi</hu>
-		<cz></cz>
+		<cz>Klimatizace: 5 eur za den za jednotku</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_prices_wasm">
@@ -199,7 +199,7 @@
 		<ru>стиральная машина использовать 5 евро</ru>
 		<de>Waschmaschine benutzen 5 eur</de>
 		<hu>Mosógép használata 5 eur</hu>
-		<cz></cz>
+		<cz>Pračka použijte 5 eur</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_prices_wifi">
@@ -209,7 +209,7 @@
 		<ru>DSL WiFi Интернет - БЕСПЛАТНО</ru>
 		<de>DSL WiFi Internet - GRATIS</de>
 		<hu>DSL WiFi Internet - INGYEN!</hu>
-		<cz></cz>
+		<cz>DSL WiFi Internet - bezplatně!</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_prices_parking">
@@ -219,7 +219,7 @@
 		<ru>отдельное парковочное место - БЕСПЛАТНО</ru>
 		<de>Privatparkplatz - GRATIS</de>
 		<hu>Saját parkoló</hu>
-		<cz></cz>
+		<cz>Parkovací místo - bezplatně</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_welcome">
@@ -228,7 +228,7 @@
 		<it>Benvenuti</it>
 		<ru>Добро пожаловать</ru>
 		<de>Willkommen</de>
-		<hu>Isten hozta</hu>
+		<hu>Üdvözöljük</hu>
 		<cz>Vítáme vás</cz>
 		<pl></pl>
 	</translation>
@@ -239,7 +239,7 @@
 		<ru>Уютная</ru>
 		<de>Gemütliche</de>
 		<hu>Kényelmes</hu>
-		<cz></cz>
+		<cz>Pohodlný</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_descr01">
@@ -249,7 +249,7 @@
 		<ru>, еще доступные квартиры, полностью оборудованная для краткости/долгосрочного проживания. Расположенный в красивой части города, в положил обратно районе, вдали от шумного движения, баров, дискотек. Идеально подходит для пар/семей.</ru>
 		<de>, dennoch erschwingliche Apartments, voll für kurze/lange Sicht Wohnen ausgestattet. Das Apartments  liegt im schönen Teil der Stadt, im Bereich entspannte, weit weg vom Verkehrslärm, Bars, Diskotheken. Ideal für Paare/Familien.</de>
 		<hu>, mégis megfizethető apartmanok Rovinj, Horvátország, teljesen felszerelt a rövid / hosszú távon él. Található legszebb részén, a város, a hátra területen, távol a zajos forgalom, bárok, diszkók. Ideális párok / családok számára.</hu>
-		<cz></cz>
+		<cz> a cenově dostupné apartmány v Rovinj, Chorvatsko, plně vybavené pro krátkodobé / dlouhodobé bydlení. Nachází se v krásné části města, v bezstarostný oblasti, daleko od hlučného provozu, bary, diskotéky. Ideální pro páry/rodiny.</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_descr02">
@@ -259,7 +259,7 @@
 		<ru>От отеля легко добраться до близлежащих бухт с чистыми, интимных, безлюдных пляжей (галечные/пород). Существует отправить пляж и бассейны рядом, очень популярен среди семей с маленькими детьми.</ru>
 		<de>Genießen Sie einen einfachen Zugang zu den nahe gelegenen Buchten mit sauberen, intim, menschenleeren Stränden (Kiesel/Felsen). Es ist ein Sende Strand und Schwimmbäder in der Nähe, sehr beliebt bei Familien mit  Kindern.</de>
 		<hu>Élvezze a könnyű hozzáférést a közeli öblök, tiszta, bensőséges, nem túlzsúfolt strandok (kavicsos / sziklák). Van egy küldési strand és uszoda a közelben rendkívül népszerű a kisgyermekes családok gyerekekkel.</hu>
-		<cz></cz>
+		<cz>Užijte si snadný přístup do okolních zátok s čistými, intimní, uncrowded pláže (oblázky / kameny). Tam je zaslat pláž a bazény v okolí, velmi oblíbený u rodin s malými dětmi.</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_descr03">
@@ -269,7 +269,7 @@
 		<ru>Есть два традиционных хорватских ресторанов поблизости (50м), предлагая широкий спектр вкусных блюд (морепродукты/гриль/отечественные специальностей).</ru>
 		<de>Es gibt zwei traditionelle kroatische Restaurants in der Nähe (50m) und bietet große Auswahl an köstlichen Speisen (Meeresfrüchte/Grill/Hausspezialitäten).</de>
 		<hu>Két hagyományos horvát étterem (50m), mely sokféle ízletes ételek (tengeri/grill/helyi specialitásokat.)</hu>
-		<cz></cz>
+		<cz>Nedaleko se nachází dva tradiční chorvatská restaurace v blízkosti (50 m), které nabízejí širokou škálu chutných jídel (mořské plody/gril/domácí speciality).</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_features">
@@ -279,7 +279,7 @@
 		<ru>Особенности:</ru>
 		<de>Eigenschaften:</de>
 		<hu>Tulajdonságok:</hu>
-		<cz></cz>
+		<cz>Vlastnosti:</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l01">
@@ -299,7 +299,7 @@
 		<ru>Кондиционер воздуха</ru>
 		<de>Klimaanlage</de>
 		<hu>Légkondicionáló</hu>
-		<cz></cz>
+		<cz>Klimatizace</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l03">
@@ -309,7 +309,7 @@
 		<ru>стиральная машина</ru>
 		<de>Waschmaschine</de>
 		<hu>Mosógép</hu>
-		<cz></cz>
+		<cz>Pračka</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l04">
@@ -319,7 +319,7 @@
 		<ru>DSL WiFi Интернет - БЕСПЛАТНО</ru>
 		<de>DSL WiFi Internet - GRATIS</de>
 		<hu>DSL WiFi Internet - INGYEN!</hu>
-		<cz></cz>
+		<cz>DSL WiFi Internet - bezplatně!</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l05">
@@ -329,7 +329,7 @@
 		<ru>Частная автостоянка - БЕСПЛАТНО</ru>
 		<de>Private Parkplatz - GRATIS</de>
 		<hu>Saját parkoló</hu>
-		<cz></cz>
+		<cz>Parkovací místo - bezplatně</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l06">
@@ -339,7 +339,7 @@
 		<ru>кухонные принадлежности</ru>
 		<de>Geschirr</de>
 		<hu>Konyhai felszerelés</hu>
-		<cz></cz>
+		<cz>Kuchyňské nádobí</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l07">
@@ -349,7 +349,7 @@
 		<ru>Постельное белье и полотенца</ru>
 		<de>Bettwäsche und Handtücher</de>
 		<hu>Ágynemű és törölköző</hu>
-		<cz></cz>
+		<cz>Ložní prádlo a ručníky</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l08">
@@ -359,7 +359,7 @@
 		<ru>Холодильник с морозильником</ru>
 		<de>Kühlschrank mit Gefrierfach</de>
 		<hu>Hűtőszekrény fagyasztóval</hu>
-		<cz></cz>
+		<cz>Chladnička s mrazákem</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l09">
@@ -369,7 +369,7 @@
 		<ru>кофеварка</ru>
 		<de>Kaffeemaschine</de>
 		<hu>Kávéfőző</hu>
-		<cz></cz>
+		<cz>Kávovar</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l10">
@@ -379,7 +379,7 @@
 		<ru>Терраса/Балкон</ru>
 		<de>Terrasse/Balkon</de>
 		<hu>Terasz/erkély</hu>
-		<cz></cz>
+		<cz>Terasa/Balkón</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l11">
@@ -389,7 +389,7 @@
 		<ru>Гриль под открытым</ru>
 		<de>Grill</de>
 		<hu>Rostély</hu>
-		<cz></cz>
+		<cz>Grilování</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l12">
@@ -399,7 +399,7 @@
 		<ru>Гибкая регистрация заезда и отъезда</ru>
 		<de>Flexible check-in/out</de>
 		<hu>Rugalmas megérkezik/indulás</hu>
-		<cz></cz>
+		<cz>Flexibilní přihlášení a odhlášení</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_l13">
@@ -409,7 +409,7 @@
 		<ru>Домашних животных</ru>
 		<de>Haustiere sind willkommen</de>
 		<hu>Háziállat szívesen</hu>
-		<cz></cz>
+		<cz>Domácí mazlíčci jsou vítáni</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_distances">
@@ -419,7 +419,7 @@
 		<ru>Расстояния:</ru>
 		<de>Entfernungen:</de>
 		<hu>Távolságok:</hu>
-		<cz></cz>
+		<cz>Vzdálenosti</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_d01">
@@ -429,7 +429,7 @@
 		<ru>Пляж 900м</ru>
 		<de>Strand 900m</de>
 		<hu>Strand 900m</hu>
-		<cz></cz>
+		<cz>Pláž 900m</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_d02">
@@ -439,17 +439,17 @@
 		<ru>Рестораны 50-100м</ru>
 		<de>Restaurants 50-100m</de>
 		<hu>Éttermek 50-100m</hu>
-		<cz></cz>
+		<cz>Restaurace 50-100metrů</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_d03">
-		<hr>Zračna luka Pula 25 km</hr>
-		<en>Airport Pula 25 km</en>
-		<it>Aeroporto di Pola 25 km</it>
-		<ru>Аэропорт Пула 25 км</ru>
-		<de>Flughafen Pula 25 km</de>
-		<hu>Repülőtér Pula 25 km</hu>
-		<cz></cz>
+		<hr>Zračna luka Pula 25km</hr>
+		<en>Airport Pula 25km</en>
+		<it>Aeroporto di Pola 25km</it>
+		<ru>Аэропорт Пула 25км</ru>
+		<de>Flughafen Pula 25km</de>
+		<hu>Repülőtér Pula 25km</hu>
+		<cz>Letiště Pula 25km</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_d04">
@@ -459,7 +459,7 @@
 		<ru>Центр города 4 км</ru>
 		<de>Ortszentrum 4 km</de>
 		<hu>Belváros 4km</hu>
-		<cz></cz>
+		<cz>Centrum města 4km</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_d05">
@@ -469,7 +469,7 @@
 		<ru>Магазин 200м</ru>
 		<de>Markt 200m</de>
 		<hu>Piaci 200m</hu>
-		<cz></cz>
+		<cz>Obchod</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_d06">
@@ -479,7 +479,7 @@
 		<ru>Прокат велосипедов 200м</ru>
 		<de>Rent-a-bike 200m</de>
 		<hu>Rent-a-bike 200m</hu>
-		<cz></cz>
+		<cz>Půjčovna kol 200m</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_ac_d07">
@@ -489,7 +489,7 @@
 		<ru>Обмен валюты 200м</ru>
 		<de>Geldwechsel 200m</de>
 		<hu>Valutaváltás 200m</hu>
-		<cz></cz>
+		<cz>Směnárna 200m</cz>
 		<pl></pl>
 	</translation>
 	<translation id="tr_calendar">
@@ -499,7 +499,7 @@
 		<ru>Календарь</ru>
 		<de>Kalender</de>
 		<hu>Naptár</hu>
-		<cz></cz>
+		<cz>Kalendář</cz>
 		<pl></pl>
 	</translation>
 </translations>

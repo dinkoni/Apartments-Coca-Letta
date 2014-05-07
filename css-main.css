@@ -130,9 +130,6 @@ body {
 	width: 80%;
 	bottom: 0;
 	z-index: 100;
-/*
-	margin: 0 auto;
-*/	
 	left:50%;
     -webkit-transform: translate(-50%);
     -moz-transform: translate(-50%);
@@ -195,4 +192,11 @@ body {
 #footerlinks {
 	width:20em;
 	heigth:10em;
+}
+
+#badgeSince1987 {
+	position:absolute;
+	top:145px;
+	right: 40px;
+	z-index:101;
 }
