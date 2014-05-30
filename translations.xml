@@ -72,6 +72,16 @@
 		<pl></pl>
 	</translation>
 	<translation id="tr_mmenu4">
+		<hr>Kontakt</hr>
+		<en>Contact</en>
+		<it>Contatti</it>
+		<ru>Контактная информация</ru>
+		<de>Kontakt</de>
+		<hu>Érintkezés</hu>
+		<cz>Kontakt</cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_mmenu4_******OLD******">
 		<hr>Kontakt/Rezervacije</hr>
 		<en>Contact/Booking</en>
 		<it>Contatti/Prenotazione</it>
@@ -500,6 +510,16 @@
 		<de>Kalender</de>
 		<hu>Naptár</hu>
 		<cz>Kalendář</cz>
+		<pl></pl>
+	</translation>
+	<translation id="tr_BookNow">
+		<hr>Rezervirajte sada</hr>
+		<en>Book now</en>
+		<it>Prenota ora</it>
+		<ru>Закажите сейчас</ru>
+		<de>Buchen Sie jetzt</de>
+		<hu>Foglaljon most már</hu>
+		<cz>Rezervujte nyní</cz>
 		<pl></pl>
 	</translation>
 </translations>

@@ -64,6 +64,7 @@
 			<a class="gallerytango"  href="Media/Apartmani Rovinj galerija/A2/Tango nacrt_3.jpg" title="Apartment Tango"></a>	
 
            <a class="moreinfobtn tr_calendar" name="Tango" href="">Calendar</a>
+           <a class="moreinfobtn tr_BookNow" name="BookTango" href="">Booking</a>
       </div>
       
       <div class="box-choices-item-separator"></div>
@@ -97,7 +98,7 @@
            <a class="gallerymilonga"  href="Media/Apartmani Rovinj galerija/B4/Milonga nacrt_3.jpg" title="Apartment Milonga"></a>
            
            <a class="moreinfobtn tr_calendar"  name="Milonga"  href="">Calendar</a>
-           
+           <a class="moreinfobtn tr_BookNow" name="BookMilonga" href="">Booking</a>
         </div>
       </div>
       <div class="clear"></div>
@@ -113,7 +114,13 @@
 				} else if($(this).attr('name') == "Milonga"){
 					$('#modalCalMilonga').modal();
 					return false;
-				}				
+				} else if($(this).attr('name') == "BookTango"){
+					window.open("http://www.hellotourist.net/sajatlap.php?ID=35048");
+					return false;
+				}  else if($(this).attr('name') == "BookMilonga"){
+					window.open("http://www.hellotourist.net/sajatlap.php?ID=35047");
+					return false;
+				}
 			});	
 		});
 </script>
