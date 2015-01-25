@@ -17,21 +17,22 @@
   
   <link href="https://plus.google.com/+ApartmentsCocaLettaRovinj" rel="publisher" />
 
-  <script src="js/jquery-1.11.0.min.js"></script>
+ <script src="js/jquery-1.11.2.min.js"></script>
   <script src="js/jquery.slides.min.js"></script>
   <script src="js/jquery.polyglot.language.switcher.js" type="text/javascript"></script>
   <script src="js/jquery.main.js"></script>
-  <script src="js/spin.js"></script>
+  <script src="js/spin.min.MOD.js"></script>
   
   <script type="text/javascript">    
 		$(document).ready(function(){
 			$('.btn').click(function(e){
 				e.preventDefault();
-				$('#main_div').spin("modal");
+				
+				<!--$('#main_div').spin("modal");-->
 				$("#middlepagecontainer").load($(this).attr('href')+".html",function () {
 					refreshLanguageTransl();
-					$('#main_div').spin("modal");
 				});
+<!--			$('#main_div').spin("modal");-->	
 			});
 
             $('#polyglotLanguageSwitcher').polyglotLanguageSwitcher({
